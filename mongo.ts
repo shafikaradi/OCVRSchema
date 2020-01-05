@@ -1,5 +1,3 @@
-class ObjectID{
-    
-}
+class ObjectID{}
 
 class DateTime{}

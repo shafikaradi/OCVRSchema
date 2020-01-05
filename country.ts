@@ -6,5 +6,5 @@ interface Country{
    createdBy:ObjectID,
    createdAt:DateTime,
    modifiedBy:ObjectID,
-   modifiedAt:DateTime,
+   modifiedAt:DateTime
 }

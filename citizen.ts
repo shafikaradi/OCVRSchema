@@ -8,6 +8,6 @@ interface Citizen{
     lastLoginAt: DateTime,
     createdAt:DateTime,
     modifiedAt:DateTime,
-    countryID:ObjectID,
+    countryID:ObjectID
 }
 

@@ -14,5 +14,5 @@ interface Admin{
     createdBy:ObjectID,
     createdAt:DateTime,
     modifiedBy:ObjectID,
-    modifiedAt:DateTime
+    modifiedAt:DateTime,
 }

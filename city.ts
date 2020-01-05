@@ -17,7 +17,7 @@ interface City{
             createdBy:ObjectID,
             createdAt:DateTime,
             modifiedBy:ObjectID,
-            modifiedAt:DateTime,
+            modifiedAt:DateTime
         }
     ]
 
